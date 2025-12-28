@@ -17,7 +17,7 @@ const Hero = () => {
                     Explore the world with Wander Wise
                 </h1>
                 <p className='px-20 text-lg text-white'>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit officiis dolorum qui libero recusandae eaque ab eligendi incidunt, error explicabo, nemo tenetur Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime, amet!
+                    Travel management app Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit officiis dolorum qui libero recusandae eaque ab eligendi incidunt, error explicabo, nemo tenetur Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime, amet!
                 </p>
                 <div className='flex items-center gap-4'>
                     <a href="/trips"><Button size={"lg"}>Explore Trips</Button></a>
