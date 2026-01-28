@@ -17,7 +17,7 @@ const Hero = () => {
                     Explore the world with Wander Wise
                 </h1>
                 <p className='px-20 text-lg text-white'>
-                    Travel management app Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit officiis dolorum qui libero recusandae eaque ab eligendi incidunt, error explicabo, nemo tenetur Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime, amet!
+                    Travel management app is your ultimate solution for planning and managing all your travel adventures. From booking flights and accommodations to organizing itineraries and tracking expenses, our app simplifies every aspect of your journey. we make travel planning effortless, so you can focus on creating unforgettable memories. 
                 </p>
                 <div className='flex items-center gap-4'>
                     <a href="/trips"><Button size={"lg"}>Explore Trips</Button></a>
